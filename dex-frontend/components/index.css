@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+
+  background-color: #0e0e10;
+  color: #f0f0f5;
+
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  display: flex;
+  flex-direction: column;
+
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
