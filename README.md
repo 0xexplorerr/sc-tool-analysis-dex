@@ -50,6 +50,3 @@ These vulnerabilities were used to evaluate the efficacy of industry-leading sca
 ## ⚠️ Disclaimer
 
 **WARNING:** The code in this repository is **intentionally vulnerable**. It is provided strictly for academic research and educational purposes. Do **NOT** use this code in a production environment or as a template for real-world DeFi applications.
-
----
-*Supplementary material for research paper submission.*
