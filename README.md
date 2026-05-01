@@ -9,7 +9,7 @@ The core objective of this project was to provide a realistic decentralized appl
 - **End-to-End dApp Architecture:** A functional React-based frontend to demonstrate how smart contract vulnerabilities manifest in user-facing applications.
 - **Comprehensive Documentation:** Detailed overview of the dapp architecture and injected vulnerabilities.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Path | Description |
 | :--- | :--- |
@@ -18,14 +18,14 @@ The core objective of this project was to provide a realistic decentralized appl
 | `Results.xlsx` | Results of the tools performance. |
 | `dex-architecture-overview.pdf` | Detailed technical documentation of the system and injected vulnerabilities. |
 
-## 🛠 Technical Stack
+## Technical Stack
 
 - **Smart Contracts:** Solidity `0.4.24` and `0.5.8`
 - **Development Framework:** Hardhat
 - **Frontend:** React.js, Ethers.js
 - **Standardization:** SWC Registry (Smart Contract Weakness Classification)
 
-## 🔐 Security Analysis Context
+## Security Analysis Context
 
 The contracts located in `dex-contracts/contracts` are specifically designed to include common yet critical security flaws, such as:
 - Reentrancy (SWC-107)
@@ -35,7 +35,7 @@ The contracts located in `dex-contracts/contracts` are specifically designed to 
 
 These vulnerabilities were used to evaluate the efficacy of industry-leading scanners. Detailed findings are documented in the Excel file.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Smart Contracts
 1. Navigate to the directory: `cd dex-contracts`
